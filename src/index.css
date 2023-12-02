@@ -1,0 +1,8 @@
+/* fireship font */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Nabla&family=Nunito:wght@400;600;1000&family=Titan+One&family=Unbounded:wght@600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
